@@ -1,2 +1,2 @@
-# COE426-HWs
-HWs of COE426
+# COE426-HW
+HW of COE426
